@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SilvaGabriell
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Delphi and SQL Server
 - 🌱 I’m currently learning Delphi and SQL Server
